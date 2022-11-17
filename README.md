@@ -22,7 +22,7 @@ Use the [original web template](https://github.com/alchemycodelab/web-template) 
 
 You are creating an online bulletin board with authentication. Don't forget that you will need to add the link to the supabase library to any HTML that is interacting with the database.
 
-<pre><script defer src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js"></script></pre>
+<pre><script defer src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@1.35.7/dist/umd/supabase.min.js"></script></pre>
 
 ### Acceptance Criteria
 
