@@ -29,7 +29,6 @@ You are creating an online bulletin board with authentication. Don't forget that
 -   Users should see a list of posts on the home page
 -   Users should be able to register or login (`/auth` page)
 -   Authenticated users should be able to create new posts (`/create` page)
--   Row-level-security should be enabled on your Supabase database with policies only allowing logged in users to add new data
 
 ## Rubric
 
@@ -63,3 +62,4 @@ The following is required for your assignment to be graded:
 * Add a post detail page and show additional information about the post on the detail page
 * Allow users to "complete" a post (i.e. have a boolean field called "complete" and use a checkbox input)
 * Add a toggle or dropdown to style the lists differently (i.e. dark mode)
+* Row-level-security should be enabled on your Supabase database with policies only allowing logged in users to add new data
