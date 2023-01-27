@@ -14,7 +14,6 @@ Use the [original web template](https://github.com/alchemycodelab/web-template) 
 -   Load data from a Supabase database using the Javascript library
 -   Register new users on Supabase using the Javascript library
 -   Authenticate existing users on Supabase using the Javascript library
--   Enable row-level-security and add policies to a Supabase database
 -   Manage protected and unprotected pages by checking if a user is logged in
 -   Use `location` object to redirect users
 
